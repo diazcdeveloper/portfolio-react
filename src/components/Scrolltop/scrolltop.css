@@ -1,0 +1,10 @@
+.scroll-top{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+}
